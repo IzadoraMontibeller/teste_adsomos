@@ -23,6 +23,7 @@ Para começar a desenvolver, siga estas instruções:
 
 3. Execute o servidor de desenvolvimento:
 
+```bash
   npm run dev
   ou
   yarn dev
